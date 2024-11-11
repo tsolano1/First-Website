@@ -1,0 +1,9 @@
+/* background image */
+body{
+    background-image: url("https://prismic-images.tmol.io/ticketmaster-tm-global/a9bd99d1-3d57-446e-b11f-e27fec80ce0a_FuerzaRegidaDH_CMG73398.png?auto=compress,format&rect=0,0,2425,1023&w=1024&h=432"); /* The image used */
+   
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    
+}
